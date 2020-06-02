@@ -1,0 +1,2 @@
+rootProject.name='List Mahasiswa Api'
+include ':app'
